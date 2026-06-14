@@ -1,0 +1,78 @@
+{
+  "fetch": {
+    "mode": "url",
+    "requested_url": "https://insly.com/en/insurance-software/",
+    "final_url": "https://insly.com/en/insurance-software/",
+    "status": 200,
+    "redirected": false,
+    "redirect_chain": [],
+    "content_type": "text/html; charset=UTF-8",
+    "x_robots_tag": "",
+    "error": null
+  },
+  "title": "Insurance Software for Insurers | Launch Faster with Insly",
+  "title_length": 58,
+  "meta_description": "Low-risk insurance software for insurers who want speed. Launch new products, simplify underwriting, and gain 100% accounting accuracy.",
+  "meta_description_length": 135,
+  "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "tdm_reservation": "",
+  "canonical": "https://insly.com/en/insurance-software/",
+  "hreflang": [],
+  "headings": {
+    "h1_count": 1,
+    "h2_count": 5,
+    "h3_count": 5,
+    "h1": [
+      "Low-risk Insurance Software"
+    ],
+    "h2": [
+      "By company type",
+      "By Solution",
+      "By company type",
+      "By Solution",
+      "By company type"
+    ],
+    "h3": [
+      "Product builder",
+      "Product distribution",
+      "Insurance accounting and reporting",
+      "Claims management",
+      "Highly customisable and scalable"
+    ]
+  },
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Insurance Software for Insurers | Launch Faster with Insly",
+    "og:description": "Low-risk insurance software for insurers who want speed. Launch new products, simplify underwriting, and gain 100% accounting accuracy.",
+    "og:url": "https://insly.com/en/insurance-software/",
+    "og:site_name": "Insly - Design & deliver insurance products",
+    "og:image": "https://insly.com/wp-content/uploads/2024/06/image-8-1.png",
+    "og:image:width": "400",
+    "og:image:height": "252",
+    "og:image:type": "image/png"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@insly_com",
+    "twitter:label1": "Est. reading time",
+    "twitter:data1": "7 minutes"
+  },
+  "json_ld": {
+    "block_count": 1,
+    "parsed_ok": 1,
+    "types": [
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "Organization"
+    ]
+  },
+  "word_count": 4075
+}

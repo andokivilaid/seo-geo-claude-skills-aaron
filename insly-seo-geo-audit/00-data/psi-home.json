@@ -1,0 +1,83 @@
+{
+  "ok": true,
+  "url": "https://insly.com/en/",
+  "strategy": "mobile",
+  "performance_score": 53.0,
+  "lab": {
+    "LCP_ms": {
+      "value": 18833.575505178334,
+      "displayValue": "18.8 s",
+      "verdict": "poor"
+    },
+    "CLS": {
+      "value": 0.002962,
+      "displayValue": "0.003",
+      "verdict": "good"
+    },
+    "TBT_ms": {
+      "value": 190.54735598269144,
+      "displayValue": "190 ms"
+    },
+    "FCP_ms": {
+      "value": 12757.050744370867,
+      "displayValue": "12.8 s"
+    },
+    "SI_ms": {
+      "value": 12757.050744370867,
+      "displayValue": "12.8 s"
+    },
+    "TTI_ms": {
+      "value": 31417.884172745136,
+      "displayValue": "31.4 s"
+    }
+  },
+  "field": {
+    "overall_category": "SLOW",
+    "metrics": {
+      "CLS": {
+        "percentile": 0.0,
+        "category": "FAST",
+        "verdict": "good"
+      },
+      "EXPERIMENTAL_TIME_TO_FIRST_BYTE": {
+        "percentile": 2243,
+        "category": "SLOW",
+        "verdict": null
+      },
+      "FIRST_CONTENTFUL_PAINT_MS": {
+        "percentile": 3661,
+        "category": "SLOW",
+        "verdict": null
+      },
+      "INP_ms": {
+        "percentile": 166,
+        "category": "FAST",
+        "verdict": "good"
+      },
+      "LCP_ms": {
+        "percentile": 3967,
+        "category": "AVERAGE",
+        "verdict": "needs-improvement"
+      }
+    }
+  },
+  "verdicts": {
+    "LCP_ms": {
+      "value": 3967,
+      "source": "field",
+      "verdict": "needs-improvement"
+    },
+    "INP_ms": {
+      "value": 166,
+      "source": "field",
+      "verdict": "good"
+    },
+    "CLS": {
+      "value": 0.0,
+      "source": "field",
+      "verdict": "good"
+    }
+  },
+  "core_web_vitals_pass": false,
+  "error": null
+}

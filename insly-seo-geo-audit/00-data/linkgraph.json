@@ -1,0 +1,295 @@
+{
+  "summary": {
+    "pages": 40,
+    "orphans": 4,
+    "deep_pages": 0,
+    "max_depth": 1,
+    "total_internal_links": 1177
+  },
+  "depth_histogram": {
+    "1": 40
+  },
+  "orphans": [
+    "https://ai.insly.com/",
+    "https://insly.com/en/",
+    "https://insly.com/en/",
+    "https://insly.com/en/"
+  ],
+  "deep_pages": [],
+  "degrees": {
+    "https://insly.com/en/": {
+      "in": 0,
+      "out": 36
+    },
+    "https://insly.com/en/claims-portal/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/solutions-overview/": {
+      "in": 38,
+      "out": 34
+    },
+    "https://insly.com/en/mga-insurance-software/": {
+      "in": 38,
+      "out": 33
+    },
+    "https://insly.com/en/insurance-software/": {
+      "in": 38,
+      "out": 33
+    },
+    "https://insly.com/en/insurance-broker-software/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/en/insurance-product-builder/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/en/insurance-product-distribution/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/en/accounting-reporting-insurance-mga/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/en/claims-management-software/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/en/socrates-systems/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/case-studies/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/blog-posts/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/ebooks/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/pricing/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/about-us/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/about-us/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/history/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/insly-in-the-media/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/press-releases/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/about-us/careers/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/about-us/contact/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://ai.insly.com/": {
+      "in": 0,
+      "out": 0
+    },
+    "https://insly.com/en/resources-overview/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/videos/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/insly-in-the-media/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/about-us/contact/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/en/insly-discovery-call/": {
+      "in": 38,
+      "out": 31
+    },
+    "https://insly.com/insurance-product-builder/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/insurance-product-distribution/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/accounting-reporting-insurance-mga/": {
+      "in": 38,
+      "out": 32
+    },
+    "https://insly.com/claims-management-software/": {
+      "in": 7,
+      "out": 33
+    },
+    "https://insly.com/blog/customer-story-accelerate-underwriting-developed-a-lucrative-niche-mga-with-insly/": {
+      "in": 10,
+      "out": 32
+    },
+    "https://insly.com/blog/customer-story-insly-helps-ridge-canada-deliver-data-powered-cyber-insurance/": {
+      "in": 4,
+      "out": 32
+    },
+    "https://insly.com/blog/customer-story-how-alta-signa-is-powering-in-person-distribution-with-inslys-technology/": {
+      "in": 12,
+      "out": 32
+    },
+    "https://insly.com/mga-insurance-software/": {
+      "in": 38,
+      "out": 33
+    },
+    "https://insly.com/insurance-software/": {
+      "in": 38,
+      "out": 33
+    },
+    "https://insly.com/insurance-broker-software/": {
+      "in": 38,
+      "out": 32
+    }
+  },
+  "pagerank": {
+    "https://insly.com/en/": 0.011494,
+    "https://insly.com/en/claims-portal/": 0.033682,
+    "https://insly.com/en/solutions-overview/": 0.033762,
+    "https://insly.com/en/mga-insurance-software/": 0.033737,
+    "https://insly.com/en/insurance-software/": 0.033737,
+    "https://insly.com/en/insurance-broker-software/": 0.03371,
+    "https://insly.com/en/insurance-product-builder/": 0.03371,
+    "https://insly.com/en/insurance-product-distribution/": 0.03371,
+    "https://insly.com/en/accounting-reporting-insurance-mga/": 0.03371,
+    "https://insly.com/en/claims-management-software/": 0.03371,
+    "https://insly.com/en/socrates-systems/": 0.033682,
+    "https://insly.com/en/case-studies/": 0.033682,
+    "https://insly.com/en/blog-posts/": 0.033682,
+    "https://insly.com/en/ebooks/": 0.033682,
+    "https://insly.com/en/pricing/": 0.033682,
+    "https://insly.com/about-us/": 0.033682,
+    "https://insly.com/en/about-us/": 0.033682,
+    "https://insly.com/en/history/": 0.033682,
+    "https://insly.com/en/insly-in-the-media/": 0.033682,
+    "https://insly.com/en/press-releases/": 0.033682,
+    "https://insly.com/en/about-us/careers/": 0.033682,
+    "https://insly.com/en/about-us/contact/": 0.033682,
+    "https://ai.insly.com/": 0.003831,
+    "https://insly.com/en/resources-overview/": 0.033682,
+    "https://insly.com/en/videos/": 0.033682,
+    "https://insly.com/insly-in-the-media/": 0.033682,
+    "https://insly.com/about-us/contact/": 0.033682,
+    "https://insly.com/en/insly-discovery-call/": 0.033682,
+    "https://insly.com/insurance-product-builder/": 0.03371,
+    "https://insly.com/insurance-product-distribution/": 0.03371,
+    "https://insly.com/accounting-reporting-insurance-mga/": 0.03371,
+    "https://insly.com/claims-management-software/": 0.008121,
+    "https://insly.com/blog/customer-story-accelerate-underwriting-developed-a-lucrative-niche-mga-with-insly/": 0.010862,
+    "https://insly.com/blog/customer-story-insly-helps-ridge-canada-deliver-data-powered-cyber-insurance/": 0.00549,
+    "https://insly.com/blog/customer-story-how-alta-signa-is-powering-in-person-distribution-with-inslys-technology/": 0.011861,
+    "https://insly.com/mga-insurance-software/": 0.033737,
+    "https://insly.com/insurance-software/": 0.033737,
+    "https://insly.com/insurance-broker-software/": 0.03371
+  },
+  "top": [
+    {
+      "url": "https://insly.com/en/solutions-overview/",
+      "pagerank": 0.033762,
+      "in": 38,
+      "out": 34,
+      "depth": 1,
+      "title": "Insly: Customise insurance software to your business"
+    },
+    {
+      "url": "https://insly.com/en/insurance-software/",
+      "pagerank": 0.033737,
+      "in": 38,
+      "out": 33,
+      "depth": 1,
+      "title": "Insurance Software for Insurers | Launch Faster with Insly"
+    },
+    {
+      "url": "https://insly.com/en/mga-insurance-software/",
+      "pagerank": 0.033737,
+      "in": 38,
+      "out": 33,
+      "depth": 1,
+      "title": "MGA Software | Low-Risk Insurance Software \u2013 Insly"
+    },
+    {
+      "url": "https://insly.com/insurance-software/",
+      "pagerank": 0.033737,
+      "in": 38,
+      "out": 33,
+      "depth": 1,
+      "title": "Insurance Software for Insurers | Launch Faster with Insly"
+    },
+    {
+      "url": "https://insly.com/mga-insurance-software/",
+      "pagerank": 0.033737,
+      "in": 38,
+      "out": 33,
+      "depth": 1,
+      "title": "MGA Software | Low-Risk Insurance Software \u2013 Insly"
+    },
+    {
+      "url": "https://insly.com/accounting-reporting-insurance-mga/",
+      "pagerank": 0.03371,
+      "in": 38,
+      "out": 32,
+      "depth": 1,
+      "title": "Accounting & Reporting Software For Insurance: Keep Your Portfolio Profitable | Insly"
+    },
+    {
+      "url": "https://insly.com/en/accounting-reporting-insurance-mga/",
+      "pagerank": 0.03371,
+      "in": 38,
+      "out": 32,
+      "depth": 1,
+      "title": "Accounting & Reporting Software For Insurance: Keep Your Portfolio Profitable | Insly"
+    },
+    {
+      "url": "https://insly.com/en/claims-management-software/",
+      "pagerank": 0.03371,
+      "in": 38,
+      "out": 32,
+      "depth": 1,
+      "title": "Insurance Claims Management Software: Streamline Your Claims Processes | Insly"
+    },
+    {
+      "url": "https://insly.com/en/insurance-broker-software/",
+      "pagerank": 0.03371,
+      "in": 38,
+      "out": 32,
+      "depth": 1,
+      "title": "Insly: Flexible low-code insurance software for Brokers"
+    },
+    {
+      "url": "https://insly.com/en/insurance-product-builder/",
+      "pagerank": 0.03371,
+      "in": 38,
+      "out": 32,
+      "depth": 1,
+      "title": "Insurance Product Builder Software: Create and Launch Insurance Products | Insly"
+    }
+  ]
+}

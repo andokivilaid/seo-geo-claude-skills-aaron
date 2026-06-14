@@ -1,0 +1,53 @@
+{
+  "fetch": {
+    "mode": "url",
+    "requested_url": "https://instanda.com/mga",
+    "final_url": "https://instanda.com/mga",
+    "status": 200,
+    "redirected": false,
+    "redirect_chain": [],
+    "content_type": "text/html; charset=UTF-8",
+    "x_robots_tag": "",
+    "error": null
+  },
+  "title": "MGA Insurance Software | For Accelerated Market Entry",
+  "title_length": 53,
+  "meta_description": "Control your Time & Cost to Market with INSTANDA, the AI-Augmented No-Code MGA software that empowers true self-sufficiency across all product types.  ",
+  "meta_description_length": 151,
+  "meta_robots": "",
+  "tdm_reservation": "",
+  "canonical": "https://instanda.com/mga",
+  "hreflang": [],
+  "headings": {
+    "h1_count": 1,
+    "h2_count": 5,
+    "h3_count": 0,
+    "h1": [
+      "Launch Products Faster. Scale Smarter."
+    ],
+    "h2": [
+      "Built for MGAs with Big Ambitions",
+      "Achieve Exceptional Growth",
+      "Make Agility your Biggest Advantage",
+      "Take the Guesswork out of AI",
+      "Meet the MGAs Building the Future"
+    ],
+    "h3": []
+  },
+  "open_graph": {
+    "og:description": "Control your Time & Cost to Market with INSTANDA, the AI-Augmented No-Code MGA software that empowers true self-sufficiency across all product types.  ",
+    "og:title": "MGA Insurance Software | For Accelerated Market Entry ",
+    "og:url": "https://instanda.com/mga"
+  },
+  "twitter": {
+    "twitter:description": "Control your Time & Cost to Market with INSTANDA, the AI-Augmented No-Code MGA software that empowers true self-sufficiency across all product types.  ",
+    "twitter:title": "MGA Insurance Software | For Accelerated Market Entry ",
+    "twitter:card": "summary"
+  },
+  "json_ld": {
+    "block_count": 0,
+    "parsed_ok": 0,
+    "types": []
+  },
+  "word_count": 3215
+}

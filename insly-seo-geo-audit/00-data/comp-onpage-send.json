@@ -1,0 +1,69 @@
+{
+  "fetch": {
+    "mode": "url",
+    "requested_url": "https://send.technology/solutions/mgas/",
+    "final_url": "https://send.technology/solutions/mgas/",
+    "status": 200,
+    "redirected": false,
+    "redirect_chain": [],
+    "content_type": "text/html; charset=UTF-8",
+    "x_robots_tag": "",
+    "error": null
+  },
+  "title": "MGA Insurance Software | Send",
+  "title_length": 29,
+  "meta_description": "Underwriting solutions built to help MGAs scale and support carrier confidence with clear data, consistent processes, and transparent reporting.",
+  "meta_description_length": 144,
+  "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "tdm_reservation": "",
+  "canonical": "https://send.technology/solutions/mgas/",
+  "hreflang": [],
+  "headings": {
+    "h1_count": 1,
+    "h2_count": 5,
+    "h3_count": 5,
+    "h1": [
+      "Run a high-growth MGA without operational drag"
+    ],
+    "h2": [
+      "Designed to support MGA growth as premium volumes and complexity increase",
+      "MGA BENEFITS",
+      "Products for MGAs",
+      "The underwriting platform built to help MGAs scale",
+      "Add more power to your underwriting"
+    ],
+    "h3": [
+      "Underwriting Maturity Framework: Moving from a process-driven to a data-driven operating model",
+      "Building a future-proof underwriting platform – Argenta's transformation with Send",
+      "INFUSE Recap: Adaptability: The Most Valuable Underwriting Skill in 2026",
+      "Scale premiums without the overhead",
+      "A platform that accelerates business growth"
+    ]
+  },
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "MGA Insurance Software | Send",
+    "og:description": "Underwriting solutions built to help MGAs scale and support carrier confidence with clear data, consistent processes, and transparent reporting.",
+    "og:url": "https://send.technology/solutions/mgas/",
+    "og:site_name": "Send"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image"
+  },
+  "json_ld": {
+    "block_count": 1,
+    "parsed_ok": 1,
+    "types": [
+      "WebPage",
+      "ReadAction",
+      "BreadcrumbList",
+      "ListItem",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification"
+    ]
+  },
+  "word_count": 2288
+}

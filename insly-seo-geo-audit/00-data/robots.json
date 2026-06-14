@@ -1,0 +1,81 @@
+{
+  "robots_url": "https://insly.com/robots.txt",
+  "fetched_url": "https://insly.com/robots.txt",
+  "status": 200,
+  "error": null,
+  "groups": 1,
+  "rules_total": 0,
+  "sitemaps": [
+    "https://insly.com/en/sitemap_index.xml"
+  ],
+  "user_agent_evaluated": "*",
+  "crawl_delay": null,
+  "ai_bots": [
+    {
+      "bot": "GPTBot",
+      "owner_note": "OpenAI — model training crawler",
+      "path": "/",
+      "allowed": true,
+      "matched_rule": null,
+      "matched_group": [
+        "*"
+      ],
+      "crawl_delay": null
+    },
+    {
+      "bot": "ClaudeBot",
+      "owner_note": "Anthropic — model training crawler",
+      "path": "/",
+      "allowed": true,
+      "matched_rule": null,
+      "matched_group": [
+        "*"
+      ],
+      "crawl_delay": null
+    },
+    {
+      "bot": "Google-Extended",
+      "owner_note": "Google — Gemini/Vertex AI training opt-out token",
+      "path": "/",
+      "allowed": true,
+      "matched_rule": null,
+      "matched_group": [
+        "*"
+      ],
+      "crawl_delay": null
+    },
+    {
+      "bot": "CCBot",
+      "owner_note": "Common Crawl — open web corpus (feeds many LLMs)",
+      "path": "/",
+      "allowed": true,
+      "matched_rule": null,
+      "matched_group": [
+        "*"
+      ],
+      "crawl_delay": null
+    },
+    {
+      "bot": "PerplexityBot",
+      "owner_note": "Perplexity — answer-engine crawler",
+      "path": "/",
+      "allowed": true,
+      "matched_rule": null,
+      "matched_group": [
+        "*"
+      ],
+      "crawl_delay": null
+    },
+    {
+      "bot": "Bytespider",
+      "owner_note": "ByteDance — crawler associated with AI training",
+      "path": "/",
+      "allowed": true,
+      "matched_rule": null,
+      "matched_group": [
+        "*"
+      ],
+      "crawl_delay": null
+    }
+  ]
+}

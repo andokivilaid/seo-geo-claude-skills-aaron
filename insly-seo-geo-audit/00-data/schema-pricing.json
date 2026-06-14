@@ -1,0 +1,67 @@
+{
+  "tool": "schema_lint",
+  "version": "1.0",
+  "source": "https://insly.com/en/pricing/",
+  "blocks_found": 5,
+  "parse_errors": [],
+  "other_formats_detected": [
+    "rdfa"
+  ],
+  "objects": [
+    {
+      "@type": "WebPage",
+      "recognized": false,
+      "missing_required": [],
+      "missing_recommended": [],
+      "warnings": [
+        "@type WebPage not in linter ruleset — only generic checks applied"
+      ],
+      "sanity_issues": []
+    },
+    {
+      "@type": "ImageObject",
+      "recognized": false,
+      "missing_required": [],
+      "missing_recommended": [],
+      "warnings": [
+        "@type ImageObject not in linter ruleset — only generic checks applied"
+      ],
+      "sanity_issues": []
+    },
+    {
+      "@type": "BreadcrumbList",
+      "recognized": true,
+      "missing_required": [],
+      "missing_recommended": [],
+      "warnings": [],
+      "sanity_issues": []
+    },
+    {
+      "@type": "WebSite",
+      "recognized": false,
+      "missing_required": [],
+      "missing_recommended": [],
+      "warnings": [
+        "@type WebSite not in linter ruleset — only generic checks applied"
+      ],
+      "sanity_issues": []
+    },
+    {
+      "@type": "Organization",
+      "recognized": true,
+      "missing_required": [],
+      "missing_recommended": [],
+      "warnings": [],
+      "sanity_issues": []
+    }
+  ],
+  "summary": {
+    "objects": 5,
+    "recognized": 2,
+    "errors": 0,
+    "warnings": 3
+  },
+  "notes": [
+    "Google's Rich Results Test has no public API. This linter catches common issues locally; run the Rich Results Test UI as the final eligibility check."
+  ]
+}

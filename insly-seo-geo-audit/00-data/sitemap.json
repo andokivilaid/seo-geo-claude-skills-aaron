@@ -1,0 +1,2159 @@
+{
+  "input": "https://insly.com/",
+  "resolved_url": "https://insly.com/",
+  "type": "sitemapindex",
+  "url_count": 523,
+  "limit": 5000,
+  "truncated": false,
+  "urls": [
+    {
+      "loc": "https://insly.com/en/blog/why-brokers-should-care-about-customer-messaging-platforms/",
+      "lastmod": "2018-12-12T10:33:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-insurance-software-products-for-brokers-and-agents-in-2016/",
+      "lastmod": "2021-05-18T07:33:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/field-insurance-brokers-software-gives-us-time-focus-excellent-service/",
+      "lastmod": "2021-05-18T07:38:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurance-distribution-directive-one-year-go/",
+      "lastmod": "2021-05-18T07:38:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/11-signs-that-its-time-for-a-new-agency-management-software/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/mga-software-providers/",
+      "lastmod": "2021-05-18T07:39:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/chatbot-is-the-future-of-automated-insurance/",
+      "lastmod": "2021-05-18T07:43:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-selected-among-top-11-insurtech-startups-from-the-uk/",
+      "lastmod": "2021-05-18T07:43:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/why-insurance-brokers-are-looking-towards-technology/",
+      "lastmod": "2021-05-18T07:44:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-future-of-insurance-p2p-insurance-concept/",
+      "lastmod": "2021-05-18T07:44:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/online-acord-forms-in-insly/",
+      "lastmod": "2021-05-18T07:47:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/four-insurance-distribution-models-to-consider-as-a-start-up/",
+      "lastmod": "2021-10-26T13:01:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-success-story-warranty-insurance-have-launched-an-innovative-b2c-insurance-product-for-a-leading-electronics-retailers-dealers-and-manufactures-based-on-an-insly-solution/",
+      "lastmod": "2021-10-26T17:03:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/mga-startup-story-build-successful-insurance-start/",
+      "lastmod": "2021-10-26T18:19:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-improved-way-of-quote-and-bind-for-underwriters/",
+      "lastmod": "2021-11-01T09:01:14+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/3-key-areas-to-address-to-cut-costs-in-insurance-management/",
+      "lastmod": "2021-11-24T12:43:45+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-story-cactus-launched/",
+      "lastmod": "2022-01-06T16:13:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-story-accelerate-underwriting-ltd-and-insly-launched-an-mga-trading-platform-for-complex-non-standard-insurance/",
+      "lastmod": "2022-01-06T16:21:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/what-tools-to-use-for-efficient-claims-management/",
+      "lastmod": "2022-01-21T08:24:59+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/three-mega-trends-in-insurance/",
+      "lastmod": "2022-01-21T13:31:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/are-apis-in-insurance-essentials-for-insurers-and-mgas/",
+      "lastmod": "2022-05-18T10:48:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurtech-story-how-drivex-helps-insurers-with-ai-assisted-vehicle-verification/",
+      "lastmod": "2022-06-16T08:46:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-strong-is-your-insurance-sales-funnel/",
+      "lastmod": "2022-06-16T11:29:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/innovate-to-differentiate-how-companies-are-leveraging-automation-in-insurance/",
+      "lastmod": "2022-06-20T11:06:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-strengthens-top-management-in-poland-will-arm-insurers-with-digital-tools-to-sell-more-insurance-with-lower-costs/",
+      "lastmod": "2022-06-30T10:26:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/is-the-insurance-industry-begging-for-disruption/",
+      "lastmod": "2022-07-07T09:26:30+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/inslys-welcome-return-to-mgaa-2022-conference/",
+      "lastmod": "2022-08-01T12:01:07+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-vital-role-of-rpa-in-insurance-accounting/",
+      "lastmod": "2022-08-08T11:22:23+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-integrations-help-accounting-and-reporting/",
+      "lastmod": "2022-08-16T11:52:23+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/reduce-claims-leakage-with-insurance-document-automation/",
+      "lastmod": "2022-09-26T10:22:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/automate-underwriting-guide-to-measuring-roi/",
+      "lastmod": "2022-10-28T09:33:48+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-benefits-of-claims-processing-automation/",
+      "lastmod": "2022-11-21T12:25:48+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-success-story-signature-underwriting-launched-online-fleet-insurance-trading-platform/",
+      "lastmod": "2022-12-19T12:45:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-closes-bridge-round/",
+      "lastmod": "2023-01-26T09:19:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/stephen-lathrope-joins-insly-as-an-advisor/",
+      "lastmod": "2023-01-26T09:19:52+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-launches-an-agile-scalable-claims-management-tool/",
+      "lastmod": "2023-01-26T09:59:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/strategies-for-modernising-your-insurance-distribution-model/",
+      "lastmod": "2023-02-15T09:07:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/inslys-founder-and-ceo-risto-rossar-on-the-voice-of-insurance-podcast/",
+      "lastmod": "2023-02-20T09:22:42+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/rating-engines-for-efficient-automated-underwriting/",
+      "lastmod": "2023-03-30T12:46:08+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-insly-integrations-help-insurance-product-building/",
+      "lastmod": "2023-03-30T12:49:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/legacy-software-review-what-to-look-out-for/",
+      "lastmod": "2023-04-11T10:59:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-mgas-can-maximise-their-data/",
+      "lastmod": "2023-04-18T11:44:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/automated-underwriting-for-mgas-5-reasons-why-you-should-invest/",
+      "lastmod": "2023-05-11T06:59:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-to-choose-insurance-policy-software-for-mgas/",
+      "lastmod": "2023-05-18T12:09:32+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-launches-brokerflow/",
+      "lastmod": "2023-05-24T11:10:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/digitising-your-insurance-broker-sales-process-just-got-easier/",
+      "lastmod": "2023-06-21T14:22:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-to-sell-insurance-online/",
+      "lastmod": "2023-08-22T08:00:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-ecosystems-drive-insurance-digitalisation/",
+      "lastmod": "2023-08-22T09:31:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-market-outlook-mga-industry-trends-2023/",
+      "lastmod": "2023-08-22T09:35:15+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-integrations-help-underwriting/",
+      "lastmod": "2023-08-22T09:38:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-secures-a-seed-extension-of-1-3m-eur-from-concentric-and-uniqa-ventures-and-ends-2020-in-profit/",
+      "lastmod": "2023-08-22T09:39:08+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-five-use-cases-for-machine-learning-in-insurance/",
+      "lastmod": "2023-09-07T14:04:39+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-are-mgas-positioned-to-innovate-in-the-insurance-market/",
+      "lastmod": "2023-09-07T14:34:55+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/global-digitalisation-of-insurance-industry-is-backed-by-insurers-and-mgas/",
+      "lastmod": "2023-10-10T09:01:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-handpicked-for-2023-pwc-scale-insurtech-programme/",
+      "lastmod": "2023-10-16T12:20:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/digital-transformation-in-insurance/",
+      "lastmod": "2023-10-16T13:04:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/chief-sales-officer-joins-insly-to-accelerate-growth/",
+      "lastmod": "2023-10-17T09:50:08+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/rpa-for-insurance-workload-automation-for-insurance/",
+      "lastmod": "2023-10-24T12:07:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/rpa-for-insurance-streamlining-your-mga-workload/",
+      "lastmod": "2023-10-25T08:10:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-showcases-its-virtual-underwriting-assistant-dia-2022-conference/",
+      "lastmod": "2023-11-06T10:39:09+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-secures-1-5m-in-venture-debt-funding/",
+      "lastmod": "2023-11-07T14:25:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-acquires-insurance-arm-of-tubapay-the-payments-company/",
+      "lastmod": "2023-12-04T14:08:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-in-2023-highlights-of-the-year/",
+      "lastmod": "2024-01-02T08:50:57+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-hires-sales-director-for-uk-ireland/",
+      "lastmod": "2024-02-28T08:48:58+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/no-code-and-low-code-insurance-software-providers-for-mgas/",
+      "lastmod": "2024-03-14T12:58:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/7-tips-for-quick-insurance-product-launch/",
+      "lastmod": "2024-03-14T12:58:39+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-insurers-and-mgas-can-achieve-efficiency-in-ecosystems/",
+      "lastmod": "2024-03-14T13:08:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-to-choose-insurance-software-an-8-step-guide-for-mgas/",
+      "lastmod": "2024-03-14T13:09:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-list-mga-software-providers-in-canada/",
+      "lastmod": "2024-03-14T13:10:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-success-story-how-afia-uses-insly-to-calculate-motor-insurance-premiums-faster/",
+      "lastmod": "2024-03-14T13:12:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-future-of-the-insurance-broker-in-a-digital-age/",
+      "lastmod": "2024-03-14T13:12:32+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/should-insurance-brokers-offer-claims-management-service/",
+      "lastmod": "2024-03-17T15:39:07+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-year-in-review-2022/",
+      "lastmod": "2024-03-17T15:41:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/7-ways-how-to-use-recommendations-to-acquire-new-clients-for-insurance-agency/",
+      "lastmod": "2024-03-17T15:49:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/bitcoin-insurance-and-custody-solution-anchorwatch-partners-with-insly/",
+      "lastmod": "2024-03-20T07:43:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/australian-underwriting-agencies-market-outlook/",
+      "lastmod": "2024-03-26T08:14:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-10-most-innovative-mgas-in-canada/",
+      "lastmod": "2024-04-30T07:41:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-10-most-innovative-mgas-in-the-uk/",
+      "lastmod": "2024-07-30T06:47:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-showcases-its-low-code-platform-at-2024-biba-conference/",
+      "lastmod": "2024-07-31T13:18:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-ultimate-insurance-software-buyers-guide/",
+      "lastmod": "2024-08-02T13:42:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/updating-quote-and-bind-processes-for-underwriters/",
+      "lastmod": "2024-08-14T08:29:22+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-five-most-innovative-digital-underwriting-agencies-in-australia/",
+      "lastmod": "2024-08-16T07:35:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-10-most-innovative-mgas-in-france/",
+      "lastmod": "2024-08-27T10:57:04+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurance-customer-acquisition-costs/",
+      "lastmod": "2024-09-02T08:56:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/unlocking-the-potential-of-insurance-data-apis-for-better-quoting/",
+      "lastmod": "2024-09-02T08:59:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/no-code-software-quick-product-launch-and-changes/",
+      "lastmod": "2024-10-14T15:48:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-how-alta-signa-is-powering-in-person-distribution-with-inslys-technology/",
+      "lastmod": "2024-10-18T09:51:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-unveils-ai-powered-product-builder-for-rapid-effortless-onboarding/",
+      "lastmod": "2024-10-18T09:53:45+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-helps-ridge-canada-deliver-data-powered-cyber-insurance/",
+      "lastmod": "2024-10-18T09:55:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-claims-general-introduction/",
+      "lastmod": "2024-10-18T10:03:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-insurance-broker-proposal-software/",
+      "lastmod": "2024-10-18T10:03:52+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-accelerate-underwriting-developed-a-lucrative-niche-mga-with-insly/",
+      "lastmod": "2024-10-18T10:04:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-claims-reserves-and-payments/",
+      "lastmod": "2024-10-18T10:05:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-claims-creating-claims-and-efnol/",
+      "lastmod": "2024-10-18T10:06:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-inslys-founder-and-ceo-risto-rossar-on-the-voice-of-insurance-podcast/",
+      "lastmod": "2024-10-18T10:07:45+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-webinar-how-to-build-an-insurance-product-from-a-z/",
+      "lastmod": "2024-10-18T10:08:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-how-to-launch-an-insurance-product-in-6-minutes/",
+      "lastmod": "2024-10-18T10:09:57+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-insly-rating-engine/",
+      "lastmod": "2024-10-18T10:11:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/video-how-oneclickcover-simplified-home-insurance-customer-journey/",
+      "lastmod": "2024-10-18T10:12:08+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurance-customer-journey/",
+      "lastmod": "2024-10-22T10:23:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-to-identify-and-prevent-insurance-application-fraud/",
+      "lastmod": "2024-10-31T12:15:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/generative-ai-in-insurance-building-a-long-term-strategy/",
+      "lastmod": "2024-10-31T13:32:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/what-does-chatgpt-mean-for-insurance-businesses/",
+      "lastmod": "2024-10-31T13:33:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-art-of-crafting-an-effective-insurance-proposal-tips-and-templates/",
+      "lastmod": "2024-10-31T13:46:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/drowning-in-insurance-compliance-automation-could-be-the-answer/",
+      "lastmod": "2024-10-31T13:47:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-to-build-an-industry-leading-claims-management-process/",
+      "lastmod": "2024-10-31T13:48:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-use-cases-for-rpa-in-the-insurance-industry/",
+      "lastmod": "2024-10-31T13:49:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/mga-industry-trends-2024-insly-market-outlook/",
+      "lastmod": "2024-10-31T13:50:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/boont-partners-with-insly-to-bring-insurtech-innovation-to-central-and-eastern-europe/",
+      "lastmod": "2024-10-31T13:50:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/your-complete-mga-guide-to-premium-accounting-and-reporting/",
+      "lastmod": "2024-10-31T13:51:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/5-strategies-to-enhance-claims-handling-for-better-customer-service-and-efficiency/",
+      "lastmod": "2024-10-31T13:52:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/unlocking-efficiency-why-modern-insurance-software-is-key-to-business-growth/",
+      "lastmod": "2024-10-31T13:53:04+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-unveils-ai-powered-product-builder-for-rapid-effortless-onboarding/",
+      "lastmod": "2024-10-31T13:53:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-rpa-in-insurance-underwriting-can-free-up-hours-of-your-day/",
+      "lastmod": "2024-10-31T13:56:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-insurance-software-helps-mga-cfos-in-daily-challenges/",
+      "lastmod": "2024-10-31T16:10:01+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-automation-boosts-insurance-profitability-10-strategies-for-fast-roi/",
+      "lastmod": "2024-11-27T10:25:04+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/ten-ai-insurance-tools-to-transform-your-productivity/",
+      "lastmod": "2024-12-05T09:00:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/new-insly-ai-tool-allows-mgas-and-insurers-to-process-broker-submissions-in-any-format/",
+      "lastmod": "2024-12-05T11:12:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-power-of-automation-in-insurance/",
+      "lastmod": "2024-12-10T09:21:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-in-2024-highlights-of-the-year/",
+      "lastmod": "2024-12-19T10:10:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-joins-underwriting-agencies-council/",
+      "lastmod": "2025-01-07T09:19:30+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurance-trends-the-landscape-for-insurers-mgas-and-insurtech/",
+      "lastmod": "2025-01-16T12:22:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/10-most-innovative-commercial-insurance-mgas/",
+      "lastmod": "2025-01-21T10:13:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/new-year-new-solution/",
+      "lastmod": "2025-01-23T09:53:57+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/artificial-intelligence-in-insurance-underwriting-a-revolution-is-underway/",
+      "lastmod": "2025-01-28T10:18:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/piotr-bartos-steps-down-as-ceo-of-insly-poland-after-13-successful-years/",
+      "lastmod": "2025-02-04T14:06:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/underwriting-agency-trends-2025-driving-growth-resilience-and-innovation-in-the-australian-market/",
+      "lastmod": "2025-02-06T08:57:52+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-story-yacht-insurance-london-marine-sets-sail-with-insly-and-doubles-productivity/",
+      "lastmod": "2025-02-12T08:44:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-story-how-alta-signa-is-powering-in-person-distribution-with-inslys-technology/",
+      "lastmod": "2025-02-12T08:44:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-story-insly-helps-ridge-canada-deliver-data-powered-cyber-insurance/",
+      "lastmod": "2025-02-12T08:44:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-story-accelerate-underwriting-developed-a-lucrative-niche-mga-with-insly/",
+      "lastmod": "2025-02-12T08:45:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurance-underwriting-automationhow-insly-and-mga-encompass-set-up-a-broker-portal-for-biba-in-two-weeks/",
+      "lastmod": "2025-02-12T08:45:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/shore-underwriting-needed-an-efficient-quote-and-bind-platform-to-launch-an-mga/",
+      "lastmod": "2025-02-12T08:45:09+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/customer-story-renovation-underwriting-simplified-policy-admin-to-launch-innovative-products/",
+      "lastmod": "2025-02-12T08:45:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/first-insurance-and-lenders-launch-an-income-protection-product-with-insly/",
+      "lastmod": "2025-02-12T08:45:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-oneclickcover-simplified-their-home-insurance-customer-journey/",
+      "lastmod": "2025-02-12T08:45:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/comprehensive-guide-to-insurance-product-management-solutions/",
+      "lastmod": "2025-02-13T11:21:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/qa-with-the-underwriting-agencies-council-australia/",
+      "lastmod": "2025-02-18T09:47:43+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/accelerating-broker-submission-turnaround-strategies-for-insurers-and-mgas/",
+      "lastmod": "2025-02-21T11:07:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/fusion-speciality-partners-with-insly-to-accelerate-growth-in-ma-insurance/",
+      "lastmod": "2025-02-27T10:57:14+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/chat-gpt-enterprise-or-gemini-for-google-workspace-which-is-best-for-insurance/",
+      "lastmod": "2025-03-04T11:05:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-10-considerations-when-implementing-a-saas-insurance-software/",
+      "lastmod": "2025-03-10T10:30:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/broker-portals-arent-working-for-mgas-and-insurers-ai-is-the-answer/",
+      "lastmod": "2025-03-11T09:51:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-role-of-ai-in-insurance-transforming-the-industry/",
+      "lastmod": "2025-03-13T10:31:12+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/frustrated-by-other-systems-troon-switched-to-insly-to-quote-complex-risks-faster/",
+      "lastmod": "2025-03-20T10:34:57+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-promotes-hammad-mirza-to-cmo-as-it-doubles-down-on-growth/",
+      "lastmod": "2025-03-27T10:09:28+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/lloyds-coverholder-systems-requirements-your-guide-to-being-ready/",
+      "lastmod": "2025-04-03T09:41:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-earns-iso-iec-27001-and-27017-certifications/",
+      "lastmod": "2025-04-15T09:18:08+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/these-three-innovations-are-transforming-broker-relationships-for-insurance-mgas/",
+      "lastmod": "2025-04-22T08:24:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/ai-makes-insly-feel-like-a-new-startup-risto-rossar-on-the-voice-of-insurance-podcast/",
+      "lastmod": "2025-04-25T09:03:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-stadium-insurance-hit-a-home-run-with-sports-memorabilia-insurance-with-the-help-of-insly/",
+      "lastmod": "2025-05-14T07:45:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-launches-report-on-maximising-the-roi-of-ai-in-insurance/",
+      "lastmod": "2025-05-20T08:35:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/ai-in-insurance-report-achieving-roi-through-practical-use-cases/",
+      "lastmod": "2025-05-20T08:54:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-at-biba-2025-conference-highlights/",
+      "lastmod": "2025-05-22T09:42:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-appoints-christian-bangsgaard-as-a-non-executive-director/",
+      "lastmod": "2025-06-05T10:21:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/brokers-are-still-indispensable-for-mgas/",
+      "lastmod": "2025-06-10T10:14:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurance-distribution-channels/",
+      "lastmod": "2025-06-11T09:34:04+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-integrations-help-insurance-product-distribution/",
+      "lastmod": "2025-06-17T07:50:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/uk-mga-growth-strategies-for-2025/",
+      "lastmod": "2025-07-01T10:51:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/why-insurers-and-mgas-should-use-low-code-and-no-code-insurance-software/",
+      "lastmod": "2025-07-08T09:28:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/most-innovative-fleet-mgas-top-10-multi-vehicle-trailblazers/",
+      "lastmod": "2025-07-10T10:09:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/seven-underwriting-workbench-essentials-for-insurers/",
+      "lastmod": "2025-07-15T10:11:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-do-manual-vs-automated-claims-handling-processes-compare/",
+      "lastmod": "2025-07-21T21:19:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/top-insurance-software-products/",
+      "lastmod": "2025-07-28T09:07:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/mga-software-renewal-checklist-insly-insurance-software/",
+      "lastmod": "2025-09-04T07:51:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/5-signs-your-mga-has-outgrown-its-platform/",
+      "lastmod": "2025-09-15T08:00:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-launches-practical-guide-to-scaling-an-mga/",
+      "lastmod": "2025-09-25T08:43:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/giving-oneclickcover-the-foundations-to-scale-its-tech-driven-home-insurance/",
+      "lastmod": "2025-10-23T09:44:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-welcomes-socrates-systems-to-the-group-uniting-insurtech-expertise-innovation-and-scale-to-drive-growth/",
+      "lastmod": "2025-11-05T09:17:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/6-lessons-on-ai-product-development-one-year-on-from-formflow/",
+      "lastmod": "2025-12-05T07:56:42+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/helping-district-cover-transform-us-property-insurance/",
+      "lastmod": "2025-12-09T10:03:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-in-2025-highlights-of-the-year/",
+      "lastmod": "2025-12-16T09:13:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/why-choose-insly/",
+      "lastmod": "2026-01-08T09:40:55+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insurance-in-2026-the-technologies-trends-and-challenges-to-watch/",
+      "lastmod": "2026-01-15T06:57:52+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/5-ways-mga-software-will-strengthen-your-capacity-relationships/",
+      "lastmod": "2026-01-21T10:35:15+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/upgrading-insurance-software-starts-with-culture-heres-how-to-manage-it/",
+      "lastmod": "2026-02-05T09:59:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-launches-ai-layer-nora-to-remove-one-insurance-bottleneck-at-a-time/",
+      "lastmod": "2026-02-18T09:52:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/embedded-insurance-is-key-to-insurer-growth-is-your-tech-stack-ready/",
+      "lastmod": "2026-02-25T14:16:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-women-helping-to-build-insly-diana-veider-ai-products-gtm-sales-growth/",
+      "lastmod": "2026-03-09T06:59:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-women-helping-to-build-insly-kristiina-siir-senior-account-manager/",
+      "lastmod": "2026-03-09T09:23:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/the-women-helping-to-build-insly-pille-semjonov-client-delivery-lead/",
+      "lastmod": "2026-03-10T09:17:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/speed-wins-the-room-why-responsiveness-is-key-for-mgas-in-2026/",
+      "lastmod": "2026-03-17T09:58:39+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/what-do-chatgpt-apps-mean-for-insurance-distribution/",
+      "lastmod": "2026-03-26T09:22:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-can-australian-insurers-and-mgas-rise-to-the-technology-challenge/",
+      "lastmod": "2026-04-07T08:43:34+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-to-expand-embedded-insurance-partnerships-to-drive-growth/",
+      "lastmod": "2026-04-14T07:54:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/what-is-insurance-submission-automation/",
+      "lastmod": "2026-04-23T06:41:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/track-claims-like-food-delivery-with-new-insly-claims-portal/",
+      "lastmod": "2026-04-30T07:21:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/what-is-straight-through-processing-for-mgas/",
+      "lastmod": "2026-05-19T08:48:55+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/insly-is-a-box-office-hit-at-biba-2026-conference-highlights/",
+      "lastmod": "2026-05-21T09:14:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/what-is-an-underwriting-guide-reader/",
+      "lastmod": "2026-05-26T08:28:50+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-do-mgas-reduce-underwriting-admin/",
+      "lastmod": "2026-06-02T08:36:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/how-the-amazon-effect-is-shaping-insurance-claims/",
+      "lastmod": "2026-06-11T09:23:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/",
+      "lastmod": "2025-12-10T09:22:04+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/quote-and-bind-efficiency-calculator/",
+      "lastmod": "2021-08-25T09:07:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/roi/",
+      "lastmod": "2021-09-21T09:45:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurance-broker-portal/",
+      "lastmod": "2022-12-21T09:12:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/what-is-a-managing-general-underwriter-mgu/",
+      "lastmod": "2024-02-02T09:08:50+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/mga-vs-mgu-in-insurance-understanding-the-key-differences/",
+      "lastmod": "2024-03-26T13:36:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/insurtech-software/",
+      "lastmod": "2024-07-30T17:22:45+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/acord-form/",
+      "lastmod": "2024-07-31T07:38:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/terms-and-conditions/",
+      "lastmod": "2024-07-31T10:16:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/fnol/",
+      "lastmod": "2024-08-01T04:34:42+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurance-capacity/",
+      "lastmod": "2024-08-01T04:46:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurance-rating-engine/",
+      "lastmod": "2024-08-01T05:13:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/cloud-based-insurance-software/",
+      "lastmod": "2024-08-01T05:59:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurance-endorsement/",
+      "lastmod": "2024-08-01T06:50:42+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/underwriting/",
+      "lastmod": "2024-08-01T07:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/usage-based-insurance/",
+      "lastmod": "2024-08-01T07:25:43+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/history/",
+      "lastmod": "2024-08-14T14:34:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/press-releases/",
+      "lastmod": "2024-10-07T16:02:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/videos/",
+      "lastmod": "2024-10-10T12:38:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/ebooks/",
+      "lastmod": "2024-10-14T09:55:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/mga-in-insurance/",
+      "lastmod": "2024-10-17T09:55:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog-posts/",
+      "lastmod": "2024-10-17T10:59:15+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurance-software/",
+      "lastmod": "2024-10-28T12:16:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/underwriter/",
+      "lastmod": "2024-10-28T12:25:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurance-commission/",
+      "lastmod": "2024-10-28T12:28:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurance-automation-software/",
+      "lastmod": "2024-10-28T12:33:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/bordereaux-management/",
+      "lastmod": "2024-10-28T12:34:59+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/delegated-authority/",
+      "lastmod": "2024-10-28T12:37:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/insurtech/",
+      "lastmod": "2024-10-28T12:39:15+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/coverholder/",
+      "lastmod": "2024-10-28T12:40:50+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/low-code-in-insurance/",
+      "lastmod": "2024-10-28T12:42:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/bordereau/",
+      "lastmod": "2024-10-28T12:44:50+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/no-code-in-insurance/",
+      "lastmod": "2024-10-28T12:45:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/about-us/careers/",
+      "lastmod": "2024-10-30T19:38:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/insly-in-the-media/",
+      "lastmod": "2024-11-01T10:40:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/insurance-broker-software/",
+      "lastmod": "2024-11-18T10:41:45+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/case-studies/",
+      "lastmod": "2025-02-12T08:47:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/resources-overview/",
+      "lastmod": "2025-02-12T08:48:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/insurance-product-builder/",
+      "lastmod": "2025-04-16T13:00:32+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/insurance-product-distribution/",
+      "lastmod": "2025-04-16T13:01:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/accounting-reporting-insurance-mga/",
+      "lastmod": "2025-04-16T13:01:42+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/fleet-insurance-software/",
+      "lastmod": "2025-06-18T08:04:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/mga-insurance-software/",
+      "lastmod": "2025-08-08T09:02:30+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/",
+      "lastmod": "2025-08-19T10:51:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/glossary-insurance-terms/the-role-of-managing-general-agents-vs-brokers/",
+      "lastmod": "2025-08-19T10:52:09+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/insurance-software/",
+      "lastmod": "2025-10-15T13:18:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/formflow/",
+      "lastmod": "2025-11-28T15:35:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/nora/",
+      "lastmod": "2026-01-23T08:17:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/privacy-policy/",
+      "lastmod": "2026-02-17T10:36:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/pricing/",
+      "lastmod": "2026-03-09T12:57:54+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/about-us/contact/",
+      "lastmod": "2026-03-27T09:01:14+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/claims-portal/",
+      "lastmod": "2026-04-29T12:32:08+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/claims-management-software/",
+      "lastmod": "2026-04-29T12:55:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/solutions-overview/",
+      "lastmod": "2026-04-29T13:08:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/about-us/",
+      "lastmod": "2026-05-29T14:57:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/elementskit-content/dynamic-content-megamenu-menuitem12/",
+      "lastmod": "2024-06-07T14:03:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/elementskit-content/dynamic-content-megamenu-menuitem372/",
+      "lastmod": "2024-06-10T09:01:12+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/elementskit-content/dynamic-content-megamenu-menuitem19516/",
+      "lastmod": "2026-04-29T12:42:07+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/elementskit-content/dynamic-content-megamenu-menuitem20337/",
+      "lastmod": "2026-04-29T13:08:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/accounting/",
+      "lastmod": "2024-10-31T13:51:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/accounting-integrations/",
+      "lastmod": "2022-08-16T11:52:23+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/acord-forms/",
+      "lastmod": "2021-05-18T07:47:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/afia/",
+      "lastmod": "2024-03-14T13:12:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/agency-management-software-insurance/",
+      "lastmod": "2024-03-17T15:49:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/ai/",
+      "lastmod": "2026-05-26T08:28:50+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/ai-assisted-vehicle-verification/",
+      "lastmod": "2022-06-16T08:46:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/ai-in-insurance/",
+      "lastmod": "2025-12-05T07:56:42+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/application-fraud/",
+      "lastmod": "2024-10-31T12:15:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/automated-insurance/",
+      "lastmod": "2026-05-26T08:28:50+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/automated-underwriting/",
+      "lastmod": "2025-02-12T08:45:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/automation/",
+      "lastmod": "2024-11-27T10:25:04+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/barbados-insurance/",
+      "lastmod": "2021-05-18T07:38:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/best-agency-management-system/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/best-insurance-agency-management-software/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/best-insurance-agency-management-systems/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/best-insurance-agency-software/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/best-insurance-software/",
+      "lastmod": "2025-07-28T09:07:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/biba-conference/",
+      "lastmod": "2024-07-31T13:18:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/biba2017/",
+      "lastmod": "2023-08-18T11:36:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/big-data/",
+      "lastmod": "2023-08-18T09:24:55+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/bitcoin/",
+      "lastmod": "2024-03-14T13:13:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/black-pearl-vc/",
+      "lastmod": "2023-08-18T10:34:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/brexit/",
+      "lastmod": "2023-08-18T11:48:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/brokerflow/",
+      "lastmod": "2024-10-31T13:46:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/brokers/",
+      "lastmod": "2025-06-17T07:50:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/build-insurance-products/",
+      "lastmod": "2023-03-30T12:49:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/business-analyst/",
+      "lastmod": "2023-08-18T11:27:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/business-insurance/",
+      "lastmod": "2023-08-18T11:49:09+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/case-study/",
+      "lastmod": "2024-03-14T13:12:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/chatbot/",
+      "lastmod": "2021-05-18T07:43:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/chatgpt-for-insurance/",
+      "lastmod": "2024-10-31T13:33:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims/",
+      "lastmod": "2022-01-21T08:24:59+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims-automation/",
+      "lastmod": "2026-04-30T07:21:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims-handling/",
+      "lastmod": "2026-04-30T07:21:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims-management/",
+      "lastmod": "2026-04-30T07:21:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims-management-software/",
+      "lastmod": "2024-10-31T13:52:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims-management-tool/",
+      "lastmod": "2025-07-21T21:19:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims-process/",
+      "lastmod": "2024-10-31T13:48:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/claims-software/",
+      "lastmod": "2024-03-17T15:39:07+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/client-story/",
+      "lastmod": "2025-02-12T08:44:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/cloud-based-software/",
+      "lastmod": "2024-03-17T15:49:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/cloud-sales/",
+      "lastmod": "2024-03-17T15:49:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/cloudsales/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/concentric/",
+      "lastmod": "2023-08-18T10:34:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/crm-for-insurance-agency/",
+      "lastmod": "2024-03-17T15:49:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/customer-acquisition/",
+      "lastmod": "2024-09-02T08:56:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/customer-messaging-platforms/",
+      "lastmod": "2018-12-12T10:33:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/customer-story/",
+      "lastmod": "2025-02-12T08:45:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/customer-success-story/",
+      "lastmod": "2024-03-14T13:12:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/cuvva/",
+      "lastmod": "2023-08-18T08:56:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/data-enrichment/",
+      "lastmod": "2023-08-22T09:38:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/deliver-insurance-products/",
+      "lastmod": "2025-06-17T07:50:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/dia/",
+      "lastmod": "2023-11-06T10:39:09+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/digital-innovation/",
+      "lastmod": "2025-03-04T11:05:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/digital-transformation/",
+      "lastmod": "2023-10-16T13:04:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/digitalisation-insurance-market/",
+      "lastmod": "2023-10-16T13:04:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/disrupting-insurance-industry/",
+      "lastmod": "2022-07-07T09:26:30+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/distribute-insurance-products/",
+      "lastmod": "2024-03-14T13:15:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/dubai/",
+      "lastmod": "2024-03-14T13:12:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/efficiency/",
+      "lastmod": "2024-10-31T13:53:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/embedded-insurance/",
+      "lastmod": "2026-04-14T07:54:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/employee-friendly-company/",
+      "lastmod": "2023-08-18T10:27:58+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/eu-insurance/",
+      "lastmod": "2021-05-18T07:38:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/familyfriendly/",
+      "lastmod": "2023-08-18T11:37:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/familyfriendlyemployer/",
+      "lastmod": "2023-08-18T11:37:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/faq/",
+      "lastmod": "2023-08-18T10:33:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/fintech/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/fleet/",
+      "lastmod": "2025-07-10T10:09:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/free-insurance-agency-management-software/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/future-of-insurance/",
+      "lastmod": "2026-06-11T09:23:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/future-of-inusrance/",
+      "lastmod": "2021-05-18T07:38:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/global-insurtech-summit/",
+      "lastmod": "2023-08-18T08:57:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/help-center/",
+      "lastmod": "2023-08-18T10:33:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/home-insurance/",
+      "lastmod": "2025-10-23T09:44:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/how-to-sell-insurance-online/",
+      "lastmod": "2024-03-17T15:49:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/hr-manager/",
+      "lastmod": "2023-08-18T08:44:12+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/idd/",
+      "lastmod": "2021-05-18T07:38:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/implement-insurance-software/",
+      "lastmod": "2023-08-18T11:06:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/implementing-insurance-software/",
+      "lastmod": "2023-08-18T10:41:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/income-protection-insurance/",
+      "lastmod": "2025-02-12T08:45:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/independent-insurance-agency-software/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/influencer/",
+      "lastmod": "2023-08-18T09:25:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/influences/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/innovation/",
+      "lastmod": "2026-06-11T09:23:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insly/",
+      "lastmod": "2025-02-12T08:45:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insly-news-and-product/",
+      "lastmod": "2024-10-31T13:53:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insly-product/",
+      "lastmod": "2023-08-18T10:33:19+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insly-team/",
+      "lastmod": "2024-02-28T08:48:58+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance/",
+      "lastmod": "2024-03-14T12:58:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-2018/",
+      "lastmod": "2023-08-18T08:57:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-accounting/",
+      "lastmod": "2022-08-08T11:22:23+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency/",
+      "lastmod": "2024-03-17T15:49:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-business-model/",
+      "lastmod": "2024-03-17T15:49:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-in-singapore/",
+      "lastmod": "2023-08-18T11:32:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-management-software/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-management-systems-comparison/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-software/",
+      "lastmod": "2025-03-10T10:30:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-software-reviews/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-software-solutions/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agency-software-systems/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-agent/",
+      "lastmod": "2021-10-26T18:19:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-api/",
+      "lastmod": "2025-02-13T11:21:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-app/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-automation/",
+      "lastmod": "2026-04-23T06:41:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-broker/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-broker-software/",
+      "lastmod": "2026-05-26T08:28:50+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-brokers/",
+      "lastmod": "2025-06-10T10:14:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-business/",
+      "lastmod": "2021-10-26T18:19:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-chat/",
+      "lastmod": "2018-12-12T10:33:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-compliance/",
+      "lastmod": "2024-10-31T13:47:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-customer-journey/",
+      "lastmod": "2024-10-22T10:23:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-customer-services/",
+      "lastmod": "2018-12-12T10:33:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-cx/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-digitalisation/",
+      "lastmod": "2023-10-16T13:04:24+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-directive/",
+      "lastmod": "2021-05-18T07:38:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-distribution/",
+      "lastmod": "2025-06-17T07:50:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-distribution-channels/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-distribution-directive/",
+      "lastmod": "2021-05-18T07:38:53+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-future/",
+      "lastmod": "2024-03-17T15:42:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-industry/",
+      "lastmod": "2024-03-17T15:44:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-influencer/",
+      "lastmod": "2023-08-18T09:16:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-innnovation/",
+      "lastmod": "2026-02-05T09:59:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-innovation/",
+      "lastmod": "2026-06-02T08:36:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-innovation-pl/",
+      "lastmod": "2021-05-18T07:44:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-innovation-leader/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-management-software/",
+      "lastmod": "2024-03-17T15:42:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-market/",
+      "lastmod": "2024-10-22T10:23:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-mga/",
+      "lastmod": "2025-09-25T08:43:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-mga-software/",
+      "lastmod": "2025-02-12T08:45:09+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-millennials/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-omnichannel/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-online/",
+      "lastmod": "2024-03-17T15:44:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-policy-software/",
+      "lastmod": "2023-05-18T12:09:32+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-product/",
+      "lastmod": "2025-06-17T07:50:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-product-launch/",
+      "lastmod": "2025-02-13T11:21:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-proposal/",
+      "lastmod": "2024-10-31T13:46:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-quote-and-bind/",
+      "lastmod": "2024-08-14T08:29:22+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-sales-funnel/",
+      "lastmod": "2022-06-16T11:29:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-singapore/",
+      "lastmod": "2023-08-18T11:32:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-software/",
+      "lastmod": "2026-02-05T09:59:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-software-for-brokers/",
+      "lastmod": "2023-08-18T11:32:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-software-for-mgas/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-software-system/",
+      "lastmod": "2024-03-17T15:42:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-startups/",
+      "lastmod": "2021-10-26T18:19:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-submission/",
+      "lastmod": "2026-04-23T06:41:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-technology/",
+      "lastmod": "2026-05-21T09:14:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-techonolgy/",
+      "lastmod": "2023-08-18T08:35:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-trends-2017/",
+      "lastmod": "2023-08-18T08:55:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-trends-2023/",
+      "lastmod": "2023-08-22T09:35:15+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-trends-2024/",
+      "lastmod": "2024-10-31T13:50:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-trends-2026/",
+      "lastmod": "2026-01-15T06:57:52+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurance-trends-report/",
+      "lastmod": "2026-01-15T06:57:52+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurances-agency-sales-management-solution/",
+      "lastmod": "2021-05-18T07:39:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurer/",
+      "lastmod": "2025-07-21T21:19:13+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurers/",
+      "lastmod": "2025-02-12T08:45:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insuretch/",
+      "lastmod": "2024-03-14T13:13:34+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurtech/",
+      "lastmod": "2025-07-10T10:09:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurtech-pl/",
+      "lastmod": "2021-05-18T07:44:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurtech-consulting-compies/",
+      "lastmod": "2023-08-18T10:41:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/insurtech-influencer/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/integration/",
+      "lastmod": "2025-06-17T07:50:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/intercom/",
+      "lastmod": "2018-12-12T10:33:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/intercom-for-brokers/",
+      "lastmod": "2018-12-12T10:33:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/internet-sales-software/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/investment/",
+      "lastmod": "2023-08-18T10:34:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/iot/",
+      "lastmod": "2024-03-14T13:13:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/james-york/",
+      "lastmod": "2023-08-18T08:57:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/job-opening/",
+      "lastmod": "2023-08-18T11:27:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/lemonade/",
+      "lastmod": "2023-08-18T09:25:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/life-insurance/",
+      "lastmod": "2023-08-18T11:32:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/life-insurance-mga/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/lloyds-insurance/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/lloyds/",
+      "lastmod": "2021-10-26T18:19:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/london-insurance/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/low-code-insurance-software/",
+      "lastmod": "2024-07-31T13:18:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/low-code-platforms/",
+      "lastmod": "2025-07-08T09:28:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/machine-learning/",
+      "lastmod": "2023-09-07T14:04:39+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/machine-learning-in-insurance/",
+      "lastmod": "2023-09-07T14:04:39+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga/",
+      "lastmod": "2025-07-10T10:09:31+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-broker/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-business-model/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-canada/",
+      "lastmod": "2024-03-14T13:10:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-distribution/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-in-insurance/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-innovative-solutions/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-insurance/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-insurance-brokers/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-insurance-model/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-insurance-software/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-managing-general-agent/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-products/",
+      "lastmod": "2024-08-27T10:57:04+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-providers/",
+      "lastmod": "2023-08-18T10:41:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-software/",
+      "lastmod": "2025-09-15T08:00:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-software-provider/",
+      "lastmod": "2024-03-14T13:10:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-software-providers/",
+      "lastmod": "2023-08-18T10:41:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-solution/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-success-story/",
+      "lastmod": "2021-10-26T18:19:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-trends/",
+      "lastmod": "2024-10-31T13:50:00+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-uk/",
+      "lastmod": "2024-03-14T13:10:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mga-vs-broker/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mgaa/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mgas/",
+      "lastmod": "2025-01-16T12:22:38+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/mgas-insurance/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/no-code-insurance-software/",
+      "lastmod": "2025-07-08T09:28:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/no-code-platforms/",
+      "lastmod": "2025-07-08T09:28:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/no-code-software/",
+      "lastmod": "2024-10-14T15:48:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/omni-channel/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/omnichannel/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/online-insurance/",
+      "lastmod": "2023-08-18T11:36:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/online-insurance-distribution/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/online-quoting/",
+      "lastmod": "2023-08-18T11:36:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/p2p-pl/",
+      "lastmod": "2021-05-18T07:44:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/paolo-cuomo/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/podcast/",
+      "lastmod": "2023-08-18T09:23:32+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/poland-insurance-market/",
+      "lastmod": "2023-08-18T10:30:41+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/polish-insurance-market/",
+      "lastmod": "2023-08-18T10:34:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/product-management/",
+      "lastmod": "2025-02-13T11:21:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/product-owner/",
+      "lastmod": "2023-03-30T12:49:40+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/przyszlosc-ubezpieczen/",
+      "lastmod": "2021-05-18T07:44:44+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/quote-and-bind/",
+      "lastmod": "2024-09-02T08:59:11+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/quoting-acceptance-online/",
+      "lastmod": "2023-08-22T08:00:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/rating-engine/",
+      "lastmod": "2023-08-22T09:38:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/reporting/",
+      "lastmod": "2024-10-31T13:51:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/rick-huckstep/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/risto-rossar/",
+      "lastmod": "2023-02-20T09:22:42+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/robin-kiera/",
+      "lastmod": "2023-08-18T08:57:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/rpa-in-insurance/",
+      "lastmod": "2024-10-31T13:56:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/rpa-use-cases-in-insurance/",
+      "lastmod": "2024-10-31T13:49:25+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/saas/",
+      "lastmod": "2025-03-10T10:30:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/sabine-vanderlinden/",
+      "lastmod": "2023-08-18T08:57:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/scaling-mga/",
+      "lastmod": "2025-09-25T08:43:47+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/seed-round/",
+      "lastmod": "2023-08-18T10:34:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/sell-insurance-online/",
+      "lastmod": "2024-10-31T14:01:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/simplified-home-insurance/",
+      "lastmod": "2025-02-12T08:45:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/software-as-a-service/",
+      "lastmod": "2023-08-18T08:41:35+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/software-for-insurance-agency/",
+      "lastmod": "2024-03-17T15:49:02+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/software-for-insurance-agents/",
+      "lastmod": "2024-03-17T15:42:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/software-for-insurance-brokers/",
+      "lastmod": "2024-03-17T15:42:05+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/software-mga/",
+      "lastmod": "2024-03-17T15:47:20+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/spiros-margaris/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/spixii/",
+      "lastmod": "2023-08-18T09:25:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/start-insurance-business/",
+      "lastmod": "2023-08-18T11:36:37+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/start-mga-business/",
+      "lastmod": "2023-08-22T08:00:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/start-selling-insurance/",
+      "lastmod": "2022-06-16T11:29:16+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/starting-insurance-business/",
+      "lastmod": "2023-08-22T08:00:06+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/startup/",
+      "lastmod": "2024-03-17T15:46:45+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/startupbootcamp/",
+      "lastmod": "2024-03-14T13:15:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/startups/",
+      "lastmod": "2024-03-14T15:23:51+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/success-story/",
+      "lastmod": "2021-10-26T17:03:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/tabel-tennis/",
+      "lastmod": "2023-08-18T10:27:58+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/team/",
+      "lastmod": "2023-08-18T11:05:27+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/technology-trends/",
+      "lastmod": "2023-08-18T08:55:10+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/tournament/",
+      "lastmod": "2023-08-18T10:27:58+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/uac/",
+      "lastmod": "2025-02-18T09:47:43+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/uae-insurance/",
+      "lastmod": "2024-03-14T13:12:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/uk-brokers/",
+      "lastmod": "2026-05-21T09:14:26+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/uk-insurance-market/",
+      "lastmod": "2023-08-18T11:36:29+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/uk-mgas/",
+      "lastmod": "2024-07-30T06:47:21+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/ukraine/",
+      "lastmod": "2023-08-18T11:07:15+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/underwriter-software/",
+      "lastmod": "2025-07-08T09:28:33+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/underwriters/",
+      "lastmod": "2024-03-14T13:09:49+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/underwriting/",
+      "lastmod": "2023-08-22T09:38:36+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/underwriting-agencies/",
+      "lastmod": "2025-02-18T09:47:43+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/underwriting-automation/",
+      "lastmod": "2025-07-15T10:11:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/underwriting-workbench/",
+      "lastmod": "2025-07-15T10:11:56+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/united-arab-emirates-insurance/",
+      "lastmod": "2024-03-14T13:12:03+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/vc/",
+      "lastmod": "2023-08-18T10:34:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/warranty-insurance/",
+      "lastmod": "2021-10-26T17:03:46+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/workload-automation/",
+      "lastmod": "2023-10-24T12:07:18+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/worrypeace/",
+      "lastmod": "2023-08-18T08:56:17+00:00"
+    },
+    {
+      "loc": "https://insly.com/en/blog/tag/year-in-review/",
+      "lastmod": "2024-03-17T15:41:17+00:00"
+    }
+  ],
+  "child_sitemaps_fetched": 4,
+  "sources": [
+    {
+      "discovery": "robots.txt",
+      "url": "https://insly.com/robots.txt",
+      "found": [
+        "https://insly.com/en/sitemap_index.xml"
+      ]
+    },
+    {
+      "url": "https://insly.com/sitemap.xml",
+      "status": 404,
+      "depth": 0,
+      "note": "HTTP 404"
+    },
+    {
+      "url": "https://insly.com/en/sitemap_index.xml",
+      "status": 200,
+      "depth": 0,
+      "kind": "index",
+      "children": 4
+    },
+    {
+      "url": "https://insly.com/en/post-sitemap.xml",
+      "status": 200,
+      "depth": 1,
+      "kind": "urlset",
+      "found": 192
+    },
+    {
+      "url": "https://insly.com/en/page-sitemap.xml",
+      "status": 200,
+      "depth": 1,
+      "kind": "urlset",
+      "found": 55
+    },
+    {
+      "url": "https://insly.com/en/elementskit_content-sitemap.xml",
+      "status": 200,
+      "depth": 1,
+      "kind": "urlset",
+      "found": 4
+    },
+    {
+      "url": "https://insly.com/en/post_tag-sitemap.xml",
+      "status": 200,
+      "depth": 1,
+      "kind": "urlset",
+      "found": 272
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://insly.com/sitemap.xml",
+      "error": "HTTP 404"
+    }
+  ]
+}

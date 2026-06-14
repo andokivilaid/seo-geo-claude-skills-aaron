@@ -1,0 +1,13 @@
+{
+  "query": "Insly insurance software",
+  "type_filter": null,
+  "endpoint": "wikidata-reconciliation",
+  "method": "reconciliation-api",
+  "status": 200,
+  "error": null,
+  "best_match": null,
+  "recognized": false,
+  "auto_matched": false,
+  "matches": [],
+  "count": 0
+}

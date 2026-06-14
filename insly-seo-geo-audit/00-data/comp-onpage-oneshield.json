@@ -1,0 +1,76 @@
+{
+  "fetch": {
+    "mode": "url",
+    "requested_url": "https://oneshield.com/markets-we-serve/mgas/",
+    "final_url": "https://oneshield.com/markets-we-serve/mgas/",
+    "status": 200,
+    "redirected": false,
+    "redirect_chain": [],
+    "content_type": "text/html; charset=UTF-8",
+    "x_robots_tag": "",
+    "error": null
+  },
+  "title": "MGAs",
+  "title_length": 4,
+  "meta_description": "Streamline policy, billing, and claims with OneShield’s MGA insurance software platform built for growth and efficiency.",
+  "meta_description_length": 120,
+  "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "tdm_reservation": "",
+  "canonical": "https://oneshield.com/markets-we-serve/mgas/",
+  "hreflang": [],
+  "headings": {
+    "h1_count": 0,
+    "h2_count": 5,
+    "h3_count": 5,
+    "h1": [],
+    "h2": [
+      "Explore our services",
+      "Read, watch and listen",
+      "Transformative technology empowering MGAs for success.",
+      "Supporting MGAs for efficient multi-line management.",
+      "Speed-to-Market Advantage"
+    ],
+    "h3": [
+      "Enter phrase or keyword",
+      "“As a startup MGA, we wanted a partner with functionality in place, the ability to customize, and the capability to add new products or lines of business...and OneShield delivered.”",
+      "IT and the Race for Talent: How Insurers and MGAs can Adapt.",
+      "A Flexible Core System is the Key to Carrier Success",
+      "New startup WestCongress Insurance Services launches operations using OneShield Software’s as-a-Service platform"
+    ]
+  },
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "MGAs",
+    "og:description": "Streamline policy, billing, and claims with OneShield’s MGA insurance software platform built for growth and efficiency.",
+    "og:url": "https://oneshield.com/markets-we-serve/mgas/",
+    "og:site_name": "OneShield",
+    "og:image": "https://oneshield.com/wp-content/uploads/2025/05/qtq80-ki1yXT.jpeg",
+    "og:image:width": "2160",
+    "og:image:height": "1440",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@oneshield",
+    "twitter:label1": "Est. reading time",
+    "twitter:data1": "1 minute"
+  },
+  "json_ld": {
+    "block_count": 1,
+    "parsed_ok": 1,
+    "types": [
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "Organization"
+    ]
+  },
+  "word_count": 7516
+}

@@ -1,0 +1,75 @@
+{
+  "fetch": {
+    "mode": "url",
+    "requested_url": "https://insly.com/en/mga-insurance-software/",
+    "final_url": "https://insly.com/en/mga-insurance-software/",
+    "status": 200,
+    "redirected": false,
+    "redirect_chain": [],
+    "content_type": "text/html; charset=UTF-8",
+    "x_robots_tag": "",
+    "error": null
+  },
+  "title": "MGA Software | Low-Risk Insurance Software – Insly",
+  "title_length": 50,
+  "meta_description": "Insly’s MGA software lets you launch fast, scale confidently, and cut complexity all at low-risk. Go live in 7–14 days from €5,000/month.",
+  "meta_description_length": 137,
+  "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "tdm_reservation": "",
+  "canonical": "https://insly.com/en/mga-insurance-software/",
+  "hreflang": [],
+  "headings": {
+    "h1_count": 1,
+    "h2_count": 5,
+    "h3_count": 5,
+    "h1": [
+      "Low-risk MGA Insurance Software"
+    ],
+    "h2": [
+      "By company type",
+      "By Solution",
+      "By company type",
+      "By Solution",
+      "By company type"
+    ],
+    "h3": [
+      "Product builder",
+      "Product distribution",
+      "Insurance accounting and reporting",
+      "Claims management",
+      "Scalable"
+    ]
+  },
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "MGA Software | Low-Risk Insurance Software – Insly",
+    "og:description": "Insly’s MGA software lets you launch fast, scale confidently, and cut complexity all at low-risk. Go live in 7–14 days from €5,000/month.",
+    "og:url": "https://insly.com/en/mga-insurance-software/",
+    "og:site_name": "Insly - Design & deliver insurance products",
+    "og:image": "https://insly.com/wp-content/uploads/2024/06/image-7-2.png"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@insly_com",
+    "twitter:label1": "Est. reading time",
+    "twitter:data1": "7 minutes"
+  },
+  "json_ld": {
+    "block_count": 1,
+    "parsed_ok": 1,
+    "types": [
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "Organization"
+    ]
+  },
+  "word_count": 3973
+}

@@ -1,0 +1,78 @@
+{
+  "fetch": {
+    "mode": "url",
+    "requested_url": "https://insly.com/",
+    "final_url": "https://insly.com/en/",
+    "status": 200,
+    "redirected": true,
+    "redirect_chain": [
+      "https://insly.com/",
+      "https://insly.com/en/"
+    ],
+    "content_type": "text/html; charset=UTF-8",
+    "x_robots_tag": "",
+    "error": null
+  },
+  "title": "Insly - Low-Risk Insurance Software",
+  "title_length": 35,
+  "meta_description": "The low-risk insurance software partner for MGAs and insurers. Fast setup, AI-powered and real results for MGAs and insurers.",
+  "meta_description_length": 125,
+  "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "tdm_reservation": "",
+  "canonical": "https://insly.com/en/",
+  "hreflang": [],
+  "headings": {
+    "h1_count": 0,
+    "h2_count": 5,
+    "h3_count": 5,
+    "h1": [],
+    "h2": [
+      "By company type",
+      "By Solution",
+      "By company type",
+      "By Solution",
+      "By company type"
+    ],
+    "h3": [
+      "Low-risk system that can be implemented in a matter of weeks",
+      "Modular approach is highly customisable and scalable",
+      "Achieve fast ROI through operational efficiency",
+      "Insurance copilot can be used as a pre-built AI tool inside your current software.",
+      "Build your own agent for your specific processes"
+    ]
+  },
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "website",
+    "og:title": "Insly - Low-Risk Insurance Software",
+    "og:description": "The low-risk insurance software partner for MGAs and insurers. Fast setup, AI-powered and real results for MGAs and insurers.",
+    "og:url": "https://insly.com/en/",
+    "og:site_name": "Insly - Design & deliver insurance products",
+    "og:image": "https://insly.com/wp-content/uploads/2024/05/Property-1Variant3.png",
+    "og:image:width": "4401",
+    "og:image:height": "1857",
+    "og:image:type": "image/png"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:image": "https://insly.com/wp-content/uploads/2021/08/insly_mainHQ.png",
+    "twitter:site": "@insly_com"
+  },
+  "json_ld": {
+    "block_count": 1,
+    "parsed_ok": 1,
+    "types": [
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "Organization"
+    ]
+  },
+  "word_count": 4004
+}
